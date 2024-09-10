@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hgbl0viPs9/N0zYp6NXf3H040F/h3adke87PwbTkxwPZdGThQI0fRALRA/NuE0Gc7v8qgDPVw1J8y5Yrn0byPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\begench\\Desktop\\tsu\\3-d year\\5-th semester\\web\\Лабораторные работы\\13\\repository\\W932203_Geldyev_lab13.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\begench\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\begench\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\begench\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\begench\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
